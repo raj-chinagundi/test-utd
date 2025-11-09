@@ -4,9 +4,9 @@
     "count": "72,771 ratings"
   },
   "chart": {
-    "chart_ts": "134071548000000000",
-    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071548000000000/D7B81605-B71B-4964-A423-6A1400E390C0.svg",
-    "alt_time": "11/09/2025 09:40"
+    "chart_ts": "134071551000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071551000000000/D7B81605-B71B-4964-A423-6A1400E390C0.svg",
+    "alt_time": "11/09/2025 09:45"
   },
   "most_reported_problems": [
     {
@@ -36,9 +36,15 @@
   ],
   "latest_reports": [
     {
+      "city": "Eatonville",
+      "reason": "Phone",
+      "time_human": "2 minutes ago",
+      "time_iso": "2025-11-09T09:40:05-04:00"
+    },
+    {
       "city": "Steubenville",
       "reason": "Internet",
-      "time_human": "41 minutes ago",
+      "time_human": "43 minutes ago",
       "time_iso": "2025-11-09T08:58:21-04:00"
     },
     {
@@ -64,166 +70,160 @@
       "reason": "Total Blackout",
       "time_human": "6 hours ago",
       "time_iso": "2025-11-09T02:52:13-04:00"
-    },
-    {
-      "city": "Seattle",
-      "reason": "Wi-fi",
-      "time_human": "7 hours ago",
-      "time_iso": "2025-11-09T02:21:44-04:00"
     }
   ],
   "issues_reports": [
     {
-      "user": "Pabla Emilia Escobar Gaviria",
-      "text": "@tmobile I haven\u2019t gotten service since this morning (im in Amsterdam) and I can\u2019t spend three+ days like this, I work from home you gotta help me please",
-      "time_iso": "2025-11-09T09:32:01-04:00"
+      "user": "MREteam",
+      "text": "@VZWSupport Been through this already. It\u2019s only been 31 days of back and forth with you guys and yet no one can manage to simply do their job. It\u2019s nothing but lie after lie, transfer after transfer. Hey @TMobile and @ATT which one of you guys have better customer service?",
+      "time_iso": "2025-11-09T09:40:20-04:00"
     },
     {
-      "user": "Michael TC",
-      "text": "2/ solution.  So you'll have no data and no internet.  Very sad @TMobile had no contingency for this, like temporary issue of a hot spot with unlimited data until your router arrives.  Bad #CustomerExperience #customerservice and poor planning.",
-      "time_iso": "2025-11-09T09:31:42-04:00"
+      "user": "PotvinsCups \ud83d\ude07",
+      "text": "Dear @TMobile \n\nHow does your in store reps NOT put in any promo's given the day a new account is created so when one has an issue the next rep can help ? What a joke. @Verizon is gonna get a call from me now.",
+      "time_iso": "2025-11-09T09:38:17-04:00"
     },
     {
-      "user": "seven",
-      "text": "if i see one more goddamn T-Mobile ad i will lose my **** faster then tommy did",
-      "time_iso": "2025-11-09T09:29:26-04:00"
+      "user": "#DRSGME",
+      "text": ".@TMobile just had the strangest outage from 4 - 420 PM \u2026 anyone else? #Tmobile",
+      "time_iso": "2025-11-09T09:38:16-04:00"
     },
     {
-      "user": "Kikyo Quinzel \u26e9\ud83d\udca3",
-      "text": "So apparently somebody else currently has my number and if I don\u2019t answer a call quick enough, it rings to that other person\u2019s phone. Wtf @TMobile",
-      "time_iso": "2025-11-09T09:29:11-04:00"
+      "user": "DENISE.",
+      "text": "my service is getting worse by the day, T-mobile i hate you with my entire soul",
+      "time_iso": "2025-11-09T09:37:45-04:00"
     },
     {
-      "user": "Gypsy Sam aka Pizza",
-      "text": "Just switched to @TMobile and so far the service is exceptional. The phones we got however, the @SamsungMobile  Galaxy A11 is one of the slowest phones I've used in a long time. \ud83d\ude14 I wish I could afford to upgrade but 2020 has sucked us dry.",
-      "time_iso": "2025-11-09T09:25:46-04:00"
+      "user": "JLev Gaming \ud83c\udfae\ud83c\udfae\ud83c\udfae\ud83c\udfae",
+      "text": "Hey @TMobile  why is my internet not working ? I can send and receive calls and texts but no internet without wifi?",
+      "time_iso": "2025-11-09T09:36:54-04:00"
     },
     {
-      "user": "Yasmine\ud83c\udf39",
-      "text": "T-Mobile ******* sucks now I hate it!",
-      "time_iso": "2025-11-09T09:23:44-04:00"
+      "user": "myrac",
+      "text": "@TMobileHelp Signal didn\u2019t come back til I left the reservation area so I couldn\u2019t respond",
+      "time_iso": "2025-11-09T09:36:35-04:00"
     },
     {
-      "user": "bri\u2661",
-      "text": "@grahamdallas17 for yearssssss I always used the same thing & out of no where they make me change them for whatever reason & I can never remember new things. hulu & my t-mobile app are the worst at always making me change shut. also my statefarm one too \ud83d\ude44",
-      "time_iso": "2025-11-09T09:22:29-04:00"
+      "user": "The Don Dodda\ud83d\udde3",
+      "text": "**** T-Mobile I\u2019m going to Verizon \ud83e\udd1f\ud83c\udffe",
+      "time_iso": "2025-11-09T09:34:24-04:00"
     },
     {
-      "user": "Michael Trombley",
-      "text": "AVOID @sprint WIRELESS and @TMobile \n\nCall Sprint wireless customer service and you get tmobile customer service and they cannot help you.  It just cycles!",
-      "time_iso": "2025-11-09T09:21:40-04:00"
+      "user": "Mike Chowla",
+      "text": "I had assumed that years after eSIM came out it would be simpler to move carriers.  Apparently, T-Mobile can\u2019t activate a line without a physical SIM card.  It\u2019s beyond dumb that they have to ship me a physical SIM card.  Waste of their money and a poor customer experience .",
+      "time_iso": "2025-11-09T09:29:25-04:00"
     },
     {
-      "user": "\ud83d\udc51Nubiana\ud83d\udc51",
-      "text": "T-mobile needs to cut the **** with video calling only to other t-mobile customers.",
-      "time_iso": "2025-11-09T09:21:05-04:00"
+      "user": "Get vaccinated! \u270d\ud83c\udffcDonnaB \ud83c\uddfa\ud83c\uddf8",
+      "text": "@TMobileHelp Thanks for the help Eric. But, here's the skinny - don't let them talk you into anything that you don't want to do. No migration of service is needed, now. Push back and tell them what you want or don't want. Be your best advocate and fight for yourself, save yourself $$.",
+      "time_iso": "2025-11-09T09:28:28-04:00"
     },
     {
-      "user": "Lanette",
-      "text": "@TMobile Just got off phone with @TMobileHelp customer service talking about what options I have with @Sprint Flex Lease now eligible for upgrade. \n\nSuper disappointed in options. \n\nIn that aspect, Sprint took care of this 20 year loyalty customer much better.",
-      "time_iso": "2025-11-09T09:18:45-04:00"
+      "user": "Anthony Ervin",
+      "text": "@TMobile you suck. I wish you never took over Sprint",
+      "time_iso": "2025-11-09T09:27:45-04:00"
     },
     {
-      "user": "Carol Smith",
-      "text": "Hey @TMobile @TMobileHelp do you know how truly awful the process is with @Assurant and their employees?  Do you care how it reflects on your company?",
-      "time_iso": "2025-11-09T09:16:54-04:00"
+      "user": "Brian Anderson",
+      "text": "I'll be unsubscribing from the un-carrier... @TMobile was great until my recent inquiry to upgrade. I was told twice that I qualify for a promotion; now they've informed me that I need to pay full price. I'd rather cancel service and start over elsewhere!",
+      "time_iso": "2025-11-09T09:25:25-04:00"
     },
     {
-      "user": "strange rock 'n roller",
-      "text": "@TMobileHelp wow $20 to upgrade in the store but free online? Wish I would have known. Would have ordered the stupid phone to save money. Ya'll do nothing for existing customers",
-      "time_iso": "2025-11-09T09:16:27-04:00",
-      "location": "Kansas City, Kansas"
+      "user": "Top of the foodchain",
+      "text": "@TMobileHelp @TMobile I would really like a setting that sends Scam Likely calls directly to my voice mail. Please make finding this solution this someone's full time job.",
+      "time_iso": "2025-11-09T09:25:12-04:00"
     },
     {
-      "user": "Robyn",
-      "text": "@TMobile soooo tested out your home internet which was a bust, returned it 22 days after I received it, and was sent to collections 4 days after missing the payment for the 20 days I used the service\u2014if you count 2GB service. #neverswitchingmywireless #disappointed",
-      "time_iso": "2025-11-09T09:06:19-04:00"
+      "user": "Nerda More",
+      "text": "@TMobile So glad to have switched to your service after reading about @ATT funding far right drivel. #tmobile",
+      "time_iso": "2025-11-09T09:21:06-04:00"
     },
     {
-      "user": "LNS",
-      "text": "@TMobileHelp I\u2019ve DMed before and was given the same answers I keep hearing over and over again, but with no real solution. We\u2019ve been told there\u2019s nothing anyone can do and we\u2019re basically SOL.",
-      "time_iso": "2025-11-09T09:05:30-04:00"
+      "user": "ChrissyApple \ud83c\udf4e",
+      "text": "@SKTV_ Oh, @TMobileHelp is just gonna have you reset your network settings and/or turn off your 5g \ud83d\ude12",
+      "time_iso": "2025-11-09T09:21:01-04:00"
     },
     {
-      "user": "Stewart Jones",
-      "text": "@TMobile got an email about a $5 Dunkin\u2019 card, opened the app and it wasn\u2019t in there. Plz help.",
-      "time_iso": "2025-11-09T09:02:09-04:00"
+      "user": "FCG CEO \u26f9\ud83c\udffe\u200d\u2642\ufe0f",
+      "text": "T-Mobile & Dis Slow *** Data I\u2019m Finna Sue @TMobile",
+      "time_iso": "2025-11-09T09:20:58-04:00"
     },
     {
-      "user": "Patty Urban",
-      "text": "@coralrae21 @TMobile This is why I love them. They canceled an entire bill for me once during a particularly difficult month financially. I\u2019ll never go anywhere else.",
-      "time_iso": "2025-11-09T09:01:56-04:00"
+      "user": "pawpawseetoh",
+      "text": "@TMobileHelp hello ... Can you help me activate a new Sim card for a current line on my account?",
+      "time_iso": "2025-11-09T09:20:24-04:00",
+      "location": "Los Angeles, California"
     },
     {
-      "user": "Gabby Weiser \u270c\ud83c\udffc",
-      "text": "flirting with my t-mobile customer service rep cause i\u2019m BoReD",
-      "time_iso": "2025-11-09T08:58:58-04:00",
-      "location": "Chandler, Arizona"
+      "user": "\ud83c\uddf3\ud83c\uddecThe Grande Dame",
+      "text": "I try to give quarterly lump sums. Like I\u2019ll put 300/400 on T-Mobile and know I don\u2019t gotta deal with them for months. Y\u2019all login to those portals every month?! I smoke too much to remember that lol",
+      "time_iso": "2025-11-09T09:16:23-04:00"
     },
     {
-      "user": "Shaun Tabua",
-      "text": "@tmobilehelp we are having a difficult time reaching our reps who have to help us get some devices for our school (Utah).",
-      "time_iso": "2025-11-09T08:54:05-04:00"
+      "user": "SHOTSBYCONCRETE",
+      "text": "Wtf going on with T-Mobile",
+      "time_iso": "2025-11-09T09:08:52-04:00"
     },
     {
-      "user": "C\ud83d\udda4",
-      "text": "@xo_msval Can you pls lmk how you like the service?! I been wanting to make the change from T-Mobile to Verizon!",
-      "time_iso": "2025-11-09T08:49:55-04:00"
+      "user": "PotvinsCups \ud83d\ude07",
+      "text": "Dear @TMobile \n\nHow does your in store reps NOT put in any promo's given the day a new account is created so when one has an issue the next rep can help ? What a joke, @VZWSupport is gonna get a call from me now.",
+      "time_iso": "2025-11-09T09:04:17-04:00"
     },
     {
-      "user": "Anna Vanderlaan",
-      "text": "@sprint @TMobile The service is worse then ever.",
-      "time_iso": "2025-11-09T08:47:51-04:00"
+      "user": "Oregano Bae",
+      "text": "@TMobileHelp @NevilleRay I just talked to someone in my DMs. Basically said we don't have any plans for your area. Been with you guys for almost 15 years. About to switch for more reliable service. I'm in KC where you just inherited an entire campus and a football stadium. No service there either. Trash.",
+      "time_iso": "2025-11-09T09:00:08-04:00"
     },
     {
-      "user": "Jennifer\ud83e\udd92",
-      "text": "Every since T-mobile and Sprint joined together my data has been terrible ....",
-      "time_iso": "2025-11-09T08:45:52-04:00"
+      "user": "Linda HD",
+      "text": "@TMobileHelp im on 2 bars of services 24/7 any help?",
+      "time_iso": "2025-11-09T08:59:58-04:00"
     },
     {
-      "user": "Becca Ribbing",
-      "text": "@TMobileHelp is phone service down in Seattle? My calls keep dropping immediately upon first ring, but texting is working.",
-      "time_iso": "2025-11-09T08:43:40-04:00"
+      "user": "miguel diaz",
+      "text": "@TMobile run me my **** I ordered it last week!!!",
+      "time_iso": "2025-11-09T08:51:08-04:00",
+      "location": "Austin, Texas"
     },
     {
-      "user": "t baby.",
-      "text": "i\u2019m outside of the mall, sitting in the parking lot & i have 1 bar of service... wtf @TMobile \ud83d\ude44 i pay about $100 a month for this bs?!",
-      "time_iso": "2025-11-09T08:43:18-04:00"
+      "user": "Irving  Eskenazi",
+      "text": "@TMobile Hi guys just wondering if there's some type of problem in the Palm Beach/Boca area been getting dialup speeds most of the day?",
+      "time_iso": "2025-11-09T08:50:02-04:00"
     },
     {
-      "user": "Scottisme",
-      "text": "@Everett88BOI @Apple @TMobile Order online. That\u2019s one thing about Apple I hate is the store never go in unless you absolutely have to",
-      "time_iso": "2025-11-09T08:42:53-04:00"
+      "user": "Darrin Giossi",
+      "text": "I used to think all networks were the same but damn @TMobile you're slow.  Slower than @Verizon. Like everything you get what you pay for.  I get a cheaper plan I get slower signal service, the circle of life",
+      "time_iso": "2025-11-09T08:49:49-04:00"
     },
     {
-      "user": "Matt Fecteau",
-      "text": "Dear @TMobile, why did you get rid of your chat feature under contact and support? If you say because of COVID, that makes no sense (be forewarned).",
-      "time_iso": "2025-11-09T08:40:35-04:00"
+      "user": "Mike Chowla",
+      "text": "@TMobileHelp Is it true that it's impossible to activate a phone on eSIM?  Customer service has spent the last hour telling that.  And that I have wait 3 days for a physical SIM to be shipped because it's not possible for me to pick up one from a T-Mobile store.",
+      "time_iso": "2025-11-09T08:49:17-04:00"
     },
     {
-      "user": "macie",
-      "text": "@TMobile see this so you can fix your **** litterally worst customer service, worst service, shitty phones, employees treat me like I\u2019m 5",
-      "time_iso": "2025-11-09T08:39:39-04:00"
+      "user": "\ud83d\udc25",
+      "text": "I regularly talk **** about T-Mobile users for funsies, but ever since the last time I made fun of a T-Mobile user like a month ago I\u2019ve had terrible wifi connectivity & signal literally every day",
+      "time_iso": "2025-11-09T08:45:00-04:00"
     },
     {
-      "user": "Pablo Lopez",
-      "text": "@TMobile your T-Mobile Tuesday app is down. Really..",
-      "time_iso": "2025-11-09T08:39:23-04:00"
+      "user": "Timothy lee",
+      "text": "@TMobile How bout you switch over to a better customer service experience. You take my money for the watch series 7. Estimated ship 10/11-10/18. Call on 10-18 and no idea when the watches will ship. Hmmm here\u2019s a clue communicate that to all that ordered one. Nightmare",
+      "time_iso": "2025-11-09T08:44:05-04:00"
     },
     {
-      "user": "macie",
-      "text": "@TMobile you give me such a headache, I have to go be a ***** to y\u2019all again bc my ******* PHONE I PAY 215$ A MONTH FOR DOESNT WORK OFF WIFI **** t mobile",
-      "time_iso": "2025-11-09T08:38:52-04:00"
+      "user": "Edwin Aguirre",
+      "text": "**** T-MOBILE IM CHANGING TO VERSION @TMobileBusiness",
+      "time_iso": "2025-11-09T08:42:41-04:00"
     },
     {
-      "user": "Derek Weber",
-      "text": "@tstride @Apple Bonus I forgot to mention.  While T-Mobile is pretty good my work line is Verizon which seems to be the only game in town in many parts of the USA. If we find ourselves in one such area it can fail over to Verizon for data :)",
-      "time_iso": "2025-11-09T08:35:51-04:00"
+      "user": "Patricia Conard",
+      "text": "@TMobile We\u2019re having trouble logging into your website.",
+      "time_iso": "2025-11-09T08:42:18-04:00"
     },
     {
-      "user": "D\u2019Matt \ud83e\udd76 \ud83e\uddca\u2744\ufe0f",
-      "text": "wth was the point of Tuesday today @TMobile  like fr. these Tuesdays lately been some MID. Damn can\u2019t spice it up even during holiday SZN?",
-      "time_iso": "2025-11-09T08:35:19-04:00"
+      "user": "Royce Ardery",
+      "text": "@TMobile had a small problem with my bill was able to call in and get it corrected very easily you guys are so much better to work with than sprint was thank you for taking them over and fixing things...",
+      "time_iso": "2025-11-09T08:41:10-04:00"
     }
   ],
   "company_posts": [
