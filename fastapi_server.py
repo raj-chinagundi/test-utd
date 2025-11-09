@@ -10,15 +10,13 @@ from webscrapper import scrape_and_save
 app = FastAPI()
 
 # Add CORS middleware
+import re
 app.add_middleware(
     CORSMiddleware,
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_origins=[
         "http://localhost:8080",
         "http://127.0.0.1:8080",
-        "https://tmobile-outage-monitor-encv567gm-raj-cs-projects.vercel.app",
-        "https://tmobile-outage-monitor-5rn8otann-raj-cs-projects.vercel.app",
-        "https://tmobile-outage-monitor.vercel.app",
-        "https://*.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
