@@ -16,7 +16,9 @@ app.add_middleware(
         "http://localhost:8080",
         "http://127.0.0.1:8080",
         "https://tmobile-outage-monitor-encv567gm-raj-cs-projects.vercel.app",
-        "https://tmobile-outage-monitor.vercel.app"
+        "https://tmobile-outage-monitor-5rn8otann-raj-cs-projects.vercel.app",
+        "https://tmobile-outage-monitor.vercel.app",
+        "https://*.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
