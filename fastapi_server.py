@@ -2,6 +2,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 import json
+import re
 from pathlib import Path
 from analyse_insights import analyze_insights
 from compare_tmob import compare_with_tmobile
@@ -10,7 +11,6 @@ from webscrapper import scrape_and_save
 app = FastAPI()
 
 # Add CORS middleware
-import re
 app.add_middleware(
     CORSMiddleware,
     allow_origin_regex=r"https://.*\.vercel\.app",
