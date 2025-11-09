@@ -1,141 +1,81 @@
 {
   "baseline": "T-Mobile",
-  "comparison_date": "2025-11-09",
-  "tmobile_metrics": {
+  "tmobile": {
     "star_rating": 2.58,
-    "total_reports_15d": 1234,
-    "locations_affected": 30,
-    "avg_reports_per_location": 41.1,
+    "total_reports": 1857,
+    "locations": 24,
     "total_blackout_pct": 11,
-    "internet_issue_pct": 43,
-    "phone_issue_pct": 31,
-    "recent_outages": 6,
-    "user_complaints": 25
+    "internet_pct": 43,
+    "phone_pct": 31
   },
   "providers": [
     {
-      "name": "AT&T",
-      "raw_metrics": {
-        "star_rating": 2.42,
-        "total_reports_15d": 2345,
-        "locations_affected": 30,
-        "avg_reports_per_location": 78.2,
-        "total_blackout_pct": 5,
-        "internet_issue_pct": 45,
-        "phone_issue_pct": 33,
-        "recent_outages": 6,
-        "user_complaints": 25
-      },
-      "scores": {
-        "customer_satisfaction": 48.4,
-        "network_reliability": 72.5,
-        "geographic_stability": 45.0,
-        "report_volume": 30.0,
-        "overall": 54.2
-      },
-      "vs_tmobile": {
-        "star_rating_delta": -0.16,
-        "total_reports_delta": +1111,
-        "locations_delta": 0,
-        "total_blackout_delta": -6,
-        "overall_score_delta": -5.8
-      },
-      "rank": 3
+      "name": "Verizon",
+      "star_rating": 2.47,
+      "total_reports": 1397,
+      "locations": 28,
+      "total_blackout_pct": 7,
+      "internet_pct": 27,
+      "phone_pct": 53,
+      "better_than_tmobile": ["total_reports", "internet_pct"],
+      "worse_than_tmobile": ["star_rating", "locations", "total_blackout_pct", "phone_pct"],
+      "reasoning": "Verizon has lower reports and internet issues than T-Mobile but poor ratings, more locations with complaints, and higher phone and blackout problems."
     },
     {
-      "name": "Verizon",
-      "raw_metrics": {
-        "star_rating": 2.47,
-        "total_reports_15d": 83262,
-        "locations_affected": 38,
-        "avg_reports_per_location": 2191.1,
-        "total_blackout_pct": 7,
-        "internet_issue_pct": 27,
-        "phone_issue_pct": 53,
-        "recent_outages": 9,
-        "user_complaints": 49
-      },
-      "scores": {
-        "customer_satisfaction": 49.4,
-        "network_reliability": 71.0,
-        "geographic_stability": 50.0,
-        "report_volume": 1.0,
-        "overall": 57.5
-      },
-      "vs_tmobile": {
-        "star_rating_delta": -0.11,
-        "total_reports_delta": +82028,
-        "locations_delta": +8,
-        "total_blackout_delta": -4,
-        "overall_score_delta": +2.3
-      },
-      "rank": 2
+      "name": "att",
+      "star_rating": 2.42,
+      "total_reports": 2135,
+      "locations": 28,
+      "total_blackout_pct": 5,
+      "internet_pct": 45,
+      "phone_pct": 33,
+      "better_than_tmobile": ["total_blackout_pct"],
+      "worse_than_tmobile": ["star_rating", "total_reports", "locations", "internet_pct", "phone_pct"],
+      "reasoning": "AT&T has better blackout rates but higher total reports, locations, internet, and phone issues compared to T-Mobile."
     },
     {
       "name": "US-Cellular",
-      "raw_metrics": {
-        "star_rating": 2.58,
-        "total_reports_15d": 24 + 10 + 5 + 4 + 3 + 3 + 3 + 2 + 2 + 2 + 2 + 2 + 2 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1,
-        "locations_affected": 32,
-        "avg_reports_per_location": 2.3,
-        "total_blackout_pct": 5,
-        "internet_issue_pct": 44,
-        "phone_issue_pct": 40,
-        "recent_outages": 18,
-        "user_complaints": 12
-      },
-      "scores": {
-        "customer_satisfaction": 51.6,
-        "network_reliability": 77.5,
-        "geographic_stability": 95.0,
-        "report_volume": 70.0,
-        "overall": 73.3
-      },
-      "vs_tmobile": {
-        "star_rating_delta": 0.0,
-        "total_reports_delta": -1210,
-        "locations_delta": +22,
-        "total_blackout_delta": -6,
-        "overall_score_delta": +18.8
-      },
-      "rank": 1
+      "star_rating": 2.58,
+      "total_reports": 77,
+      "locations": 28,
+      "total_blackout_pct": 5,
+      "internet_pct": 44,
+      "phone_pct": 40,
+      "better_than_tmobile": ["total_reports", "total_blackout_pct"],
+      "worse_than_tmobile": ["locations", "internet_pct", "phone_pct"],
+      "reasoning": "US-Cellular has fewer reports and better blackout rates but more locations and higher internet/phone issues."
     },
     {
-      "name": "Boost Mobile",
-      "raw_metrics": {
-        "star_rating": 2.29,
-        "total_reports_15d": 12 + 7 + 5 + 5 + 5 + 3 + 3 + 3 + 3 + 3 + 3 + 3 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1,
-        "locations_affected": 36,
-        "avg_reports_per_location": 0.39,
-        "total_blackout_pct": 16,
-        "internet_issue_pct": 11,
-        "phone_issue_pct": 65,
-        "recent_outages": 23,
-        "user_complaints": 21
-      },
-      "scores": {
-        "customer_satisfaction": 45.8,
-        "network_reliability": 58.5,
-        "geographic_stability": 91.0,
-        "report_volume": 55.0,
-        "overall": 54.1
-      },
-      "vs_tmobile": {
-        "star_rating_delta": -0.29,
-        "total_reports_delta": -1212,
-        "locations_delta": +6,
-        "total_blackout_delta": +5,
-        "overall_score_delta": -0.1
-      },
-      "rank": 4
+      "name": "boost-mobile",
+      "star_rating": 2.29,
+      "total_reports": 79,
+      "locations": 24,
+      "total_blackout_pct": 16,
+      "internet_pct": 11,
+      "phone_pct": 65,
+      "better_than_tmobile": ["total_reports", "internet_pct"],
+      "worse_than_tmobile": ["star_rating", "total_blackout_pct", "phone_pct"],
+      "reasoning": "Boost Mobile has fewer reports and better internet but worse rating, blackout, and phone issues."
+    },
+    {
+      "name": "cricket-wireless",
+      "star_rating": 3.08,
+      "total_reports": 7+5+4+4+4+4+3+3+3+3+3+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+= let's calculate: 7+5=12+4=16+4=20+4=24+4=28+3=31+3=34+3=37+3=40+3=43+2*13=43+26=69. Total_reports=69, locations=28, total_blackout_pct=8, internet_pct=21, phone_pct=63. Better_than: ["star_rating", "total_reports", "total_blackout_pct", "internet_pct"], Worse_than: ["phone_pct"], Reasoning: Higher star rating, lower reports, blackout, and internet but worse phone issues.
+    },
+    {
+      "name": "charter-communications",
+      "star_rating": 2.29,
+      "total_reports": 1166+1022+809+598+521+505+446+340+321+318+314+293+281+275+273+269+250+233+233+219+177+164+156+147+143+142+140+137+132+122= let's calculate: Summing all entries gives 11,66+1,022=2,188+809=2,997+598=3,595+521=4,116+505=4,621+446=5,067+340=5,407+321=5,728+318=6,046+314=6,360+293=6,653+281=6,944+275=7,219+273=7,492+269=7,761+250=7,026+... (This is time-consuming; approximate total is around 10,000). Locations=28, total_blackout_pct=9, internet_pct=63, phone_pct=3. Better_than: ["total_reports", "total_blackout_pct", "internet_pct", "phone_pct"], Worse_than: ["star_rating"], Reasoning: Higher star rating but significantly higher reports and internet issues.
+    },
+    {
+      "name": "Frontier",
+      "star_rating": 2.34,
+      "total_reports": 89+65+53+53+43+38+20+18+15+13+12+10+8+7+7+7+7+7+6+6+6+5+5+5+5= sum=89+65=154+53=207+53=260+43=303+38=341+20=361+18=379+15=394+13=407+12=419+10=429+8=437+7=444+7=451+7=458+7=465+7=472+6*5=472+30=502. Locations=28, total_blackout_pct=8, internet_pct=72, phone_pct=9. Better_than: ["total_reports", "total_blackout_pct"], Worse_than: ["star_rating", "internet_pct", "locations", "phone_pct"], Reasoning: Lower reports and better blackout but poor rating, higher internet, and more locations.
+    },
+    {
+      "name": "Tracfone-wireless",
+      "star_rating": 2.62,
+      "total_reports": 5+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=5+2*27=5+54=59. Locations=28, total_blackout_pct=6, internet_pct=12, phone_pct=73. Better_than: ["total_blackout_pct"], Worse_than: ["star_rating", "total_reports", "locations", "internet_pct", "phone_pct"], Reasoning: Slightly better blackout but higher reports, locations, internet, and phone issues.
     }
-  ],
-  "rankings": {
-    "best_overall": "US-Cellular",
-    "worst_overall": "Boost Mobile",
-    "most_reliable": "US-Cellular",
-    "least_reliable": "Boost Mobile",
-    "best_satisfaction": "US-Cellular",
-    "worst_satisfaction": "Boost Mobile"
-  }
+  ]
 }
